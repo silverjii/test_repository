@@ -526,7 +526,7 @@
 }
 .awards .swiper-prev:hover,
 .awards .swiper-next:hover {
-  background-color: #fff;
+  background-color: #fefefe;
   color: #333;
 }
 
@@ -539,8 +539,8 @@
   width: 42px;
   height: 42px;
   background-color: #333;
-  color: #fff;
-  border: 2px solid #fff;
+  color: #fefefe;
+  border: 2px solid #fefefe;
   border-radius: 10px;
   cursor: pointer;
   display: flex;
